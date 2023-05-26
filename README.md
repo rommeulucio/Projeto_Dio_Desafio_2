@@ -10,7 +10,7 @@ A solução é composta pelos seguintes serviços da AWS: Amazon Cognito, Dynamo
 
 * Conta na AWS
 * Conhecimentos básicos em AWS Lambda, Amazon API Gateway e DynamoDB
-* Postman instaladoa
+* Postman instalado
 
 ## Tecnologias utilizadas
 
